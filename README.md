@@ -59,7 +59,7 @@ Actualmente curso un **Máster Full-Stack en Desarrollo de Software** (Conquer B
 
 ## 📫 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoerguille)  
+[![LinkedIn](https://www.linkedin.com/in/guillermo-villalba-737748200/)  
 🌐 Próximamente: [Portfolio Web](#)
 
 ---
