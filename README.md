@@ -27,13 +27,7 @@ Actualmente curso un **Máster Full-Stack en Desarrollo de Software** (Conquer B
 
 ## 🚀 Proyectos Destacados
 
-- 📦 **[Gestión de clientes, pedidos y producción](#)** (proyecto principal en desarrollo)  
-  App full-stack para la digitalización de procesos en una empresa real. Incluye **Django, React, SQL** y buenas prácticas de documentación.
-
-- 📊 **[Data Dashboard con Streamlit](#)**  
-  Visualización interactiva de datos de negocio usando **Python + Pandas + Streamlit**.
-
-- 🌐 **[Mini API con FastAPI](#)**  
+- 🌐 **[Mini ERP con DJANGO](#)**  
   REST API sencilla para practicar autenticación y CRUD.
 
 *(más proyectos en mis repositorios 📂)*
