@@ -1,76 +1,46 @@
-# 👋 ¡Ey, aquí Guille!
+# ⚡ Guillermo Villalba Sanchez
 
-🎯 **Software Developer en formación** | 🚀 Transición desde la gestión empresarial hacia el desarrollo de software.
+### Python & Backend Developer | Ex-Operations Manager
 
-Actualmente curso un **Máster Full-Stack en Desarrollo de Software** (Conquer Blocks + IEAD), con el objetivo de incorporarme en 2026 como desarrollador profesional.
+Desarrollador de software especializado en el ecosistema **Python y arquitectura backend**, con formación de base en Administración y Dirección de Empresas (ADE). Mi enfoque profesional consiste en traducir las necesidades y lógicas de negocio complejas en sistemas de software eficientes, escalables y mantenibles.
 
 ---
 
-
 ## 🛠️ Tech Stack
 
-**Lenguajes y frameworks principales:**
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+### Lenguajes y Frameworks Principales
+* **Backend:** Python, Django, REST APIs, POO.
+* **Bases de Datos & Persistencia:** SQL, PostgreSQL, MySQL.
+* **Frontend & Estilos:** JavaScript, HTML5, CSS3, Tailwind CSS.
 
-**También explorando:**  
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+### Herramientas y Metodologías
+* **Control de Versiones & CLI:** Git, GitHub, Terminal Linux.
+* **Entornos de Trabajo:** Git-flow, metodologías ágiles (Scrum).
+* **Diseño:** Figma.
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-- 🌐 **[Mini ERP con DJANGO](#)**  
-  REST API sencilla para practicar autenticación y CRUD.
+### 🏬 [mini_ERP_project](https://github.com/yoerguille/mini_ERP_project)
+Un **sistema monolítico robusto** desarrollado con Django y PostgreSQL diseñado para automatizar el ciclo operativo completo de una pyme. 
+* **Características clave:** Implementación de módulos CRUD para gestión de clientes y productos, arquitectura de base de datos relacional, sistema de autenticación/control de accesos, gestión del estado de pedidos y automatización de notificaciones por correo.
+* **Stack:** Python, Django, PostgreSQL, Tailwind CSS, Git.
 
-*(más proyectos en mis repositorios 📂)*
-
----
-
-## 💡 Cómo trabajo
-
-- Uso **Git-flow**, ramas organizadas y commits claros.  
-- Documentación en cada repo (README, issues, wiki cuando aplica).  
-- Experiencia en **Scrum y metodologías ágiles**.  
-- Foco en **escribir código limpio y mantenible**.
+### 💳 [club_ledger](https://github.com/yoerguille/club_ledger)
+*(Proyecto en desarrollo)* Repositorio enfocado al control financiero, gestión de asientos contables y lógica de contabilidad interna, aplicando patrones de diseño backend con Python.
 
 ---
 
-## 📈 Evolución
- 
-- 2025 → Proyecto full-stack aplicado a empresa real 🚧
-- 2025 → Certificado en Python Avanzado 💪✅
-- 2026 → Incorporación como **Software Developer** 🚀  
+## ⚙️ Cómo Trabajo (Cultura de Ingeniería)
+
+* **Estrategia de Git:** Uso estricto de **Git-flow**, manteniendo ramas organizadas (`feature/`, `bugfix/`) y *commits* semánticos claros que faciliten la revisión de código.
+* **Código Limpio:** Foco absoluto en la legibilidad del código, principios SOLID, modularidad de aplicaciones en Django y legibilidad en las consultas a bases de datos.
+* **Documentación:** Cada desarrollo clave cuenta con un archivo `README.md` técnico que detalla la arquitectura del software y los pasos para su despliegue local.
 
 ---
 
-## 📫 Conecta conmigo
+## 🤝 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)][(www.linkedin.com/in/guillermo-villalba-sanchez)]  
-🌐 Próximamente: [Portfolio Web](#)
-
----
-✨ *Mi misión: unir mi experiencia en gestión empresarial con el desarrollo de software para crear soluciones que aporten valor real a las organizaciones.*
-
-
-<!--
-**yoerguille/yoerguille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💼 **LinkedIn:** [/in/guillermo-villalba-sanchez](https://www.linkedin.com/in/guillermo-villalba-sanchez)
+* 📬 **Email:** gvilsanz@gmail.com
